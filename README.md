@@ -1,4 +1,4 @@
-# Weather-Analysis-Using-Image-Recognition
+# Weather-Analysis-Using-Image-Recognition ☁️
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/binary11110/Weather-Analysis-Using-Image-Recognition">
 
